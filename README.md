@@ -1,2 +1,4 @@
 # neat
- C++ NEAT implementation
+
+## description
+ C++ NEAT implementation. Requires SFML graphics library
